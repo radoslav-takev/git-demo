@@ -1,3 +1,6 @@
-this is a test file
 edit this file on github directly
 this line as well
+
++++++++
+adding more lines and checking it from the git gui
++++++++
